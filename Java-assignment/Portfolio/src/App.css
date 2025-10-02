@@ -3,12 +3,13 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: left;
+  color: rgb(18, 20, 22);
 }
 
     .navbar a{
         position:relative;
         font-size: 1.1em;
-        color: aliceblue;
+        color: rgb(0, 0, 0);
         text-decoration: none;
         font-weight: 500;
         margin-left: 40px;
